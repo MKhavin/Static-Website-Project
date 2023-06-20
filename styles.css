@@ -44,6 +44,7 @@ body {
 .nav-item {
   padding: 1rem;
   font-size: 1.5rem;
+  text-decoration: none;
 }
 
 /* Dropdown menu selectors */
@@ -352,6 +353,10 @@ body {
   margin-top: 5rem;
 }
 
+.read-more {
+  text-decoration: none;
+}
+
 /* Utility selectors */
 .pink-color {
   color: rgb(255, 139, 161);
@@ -393,6 +398,7 @@ body {
   border-radius: 2rem;
   font-size: 1.5rem;
   color: white;
+  text-decoration: none;
 }
 
 .truncate {
